@@ -4,8 +4,7 @@ import docxtpl
 
 what_can_I_says = ["war gut", "war okay", "war ganz gut"]
 improves = ["bisschen mehr arbeiten", "nichts", "time management"]
-faecher = ["mathe/raab", "kunst/roth", "info/huehne", "english/pitzen",
-           "deutsch/bosshoefer", "physik/bloennigen", "sport/au", "reli/straszewski", "geschichte/bopp", "erdkunde/geib"]
+faecher = ["mathe/x]
 
 
 dates = ["30.01.2021"]
